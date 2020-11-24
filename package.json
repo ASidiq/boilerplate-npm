@@ -1,5 +1,6 @@
 {
 	"author": "Abubakr Olorunlambe",
+	"description": "Project for learning about API and Microservices",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"

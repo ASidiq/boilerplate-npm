@@ -17,5 +17,6 @@
 		"type": "git",
 		"url": "github:ASidiq/boilerplate-npm"
 	},
-	"license":"(MIT OR BSD+Patent)"
+	"license":"(MIT OR BSD+Patent)",
+	"version":"1.0.0"
 }

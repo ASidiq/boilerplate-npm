@@ -4,7 +4,8 @@
 	"description": "Project for learning about API and Microservices",
 	"keywords": ["freecodecamp", "API", "Microservices", "NPM", "Node"],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.29.1"
 	},
 	"main": "server.js",
 	"scripts": {
